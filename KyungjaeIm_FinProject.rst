@@ -24,7 +24,7 @@ Fig. 1A shows simplified mechanical framework of proposed shear box. It shows ho
 
 .. figure:: image/pic1.PNG
   :width: 300 px
-  
+*Figure 1. A: Simplified mechanical framework of proposed shear box. B and C represents simulation results when boundary forces shown in A are applied.*  
 
 
 
@@ -37,8 +37,7 @@ For deformation measurement, Sparkfun flex sensor was initially considered. The 
 .. figure:: image/pic2.PNG
   :width: 300 px
   :align: center
-  
-
+*Figure 2. Final design and major components of shear box.* 
   
   
  
@@ -49,7 +48,7 @@ Two power sources are used: (i) Arduino 5V for powering linear actuator and (ii)
 .. figure:: image/pic3.PNG
   :width: 300 px
   :align: center
-
+*Figure 3. Electric circuit diagram (A) and fully connected sponge-quake shear box.*
 
 **Experiment set up and Results**
 
@@ -62,7 +61,7 @@ Plot C and D represent maximum slip velocity (C) and observed stability (D). Obs
 .. figure:: image/pic4.PNG
   :width: 300 px
   :align: center
-  
+*Figure 4. Experimental result.*
   
   
 **Problems and Further Upgrade Items**

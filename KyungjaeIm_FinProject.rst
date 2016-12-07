@@ -26,6 +26,8 @@ Fig. 1A shows simplified mechanical framework of proposed shear box. It shows ho
   :width: 300 px
   
 
+
+
 **Final Design**
 
 Several different mechanical design were proposed and Fig. 2 is selected as a final design. Overall apparatus is framed by aluminum U shaped bar. I bought a guide rail and carriage to minimize frictional resistance when shearing the top of sponge. The carriage is bolted to a slider that can cover the top area of sponge. Slider bottom is covered by a rubber patch so that the shear force can be well delivered to sponge. I used a commercial linear actuator (Actuonix L12) to push slider. Bottom friction surface is made by rubber partly covered by kitchen wrap. I checked that kitchen wrap / sponge contact always shows stable sliding and rubber / sponge contact shows unstable stick-slip. Therefore size of unstable patch in this experiment is controlled by coverage of kitchen wrap and exposed sized of rubber. 
@@ -34,8 +36,9 @@ For deformation measurement, Sparkfun flex sensor was initially considered. The 
 
 .. figure:: image/pic2.PNG
   :width: 300 px
-  :alt: image of my awesome project
   :align: center
+  
+
   
   
  
@@ -45,7 +48,6 @@ Two power sources are used: (i) Arduino 5V for powering linear actuator and (ii)
 
 .. figure:: image/pic3.PNG
   :width: 300 px
-  :alt: image of my awesome project
   :align: center
 
 
@@ -59,8 +61,9 @@ Plot C and D represent maximum slip velocity (C) and observed stability (D). Obs
 
 .. figure:: image/pic4.PNG
   :width: 300 px
-  :alt: image of my awesome project
   :align: center
+  
+  
   
 **Problems and Further Upgrade Items**
 

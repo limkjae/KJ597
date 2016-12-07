@@ -23,6 +23,7 @@ Fig. 1A shows simplified mechanical framework of proposed shear box. It shows ho
 
 
 .. figure:: image/pic1.PNG
+  :width: 300 px
   
 
 **Final Design**
@@ -31,7 +32,7 @@ Several different mechanical design were proposed and Fig. 2 is selected as a fi
 
 For deformation measurement, Sparkfun flex sensor was initially considered. The sensor indeed can measure the displacement of sponge but resolution was poor. The sensor is changed to DCDT. Connecting the DCDT to separate 30V power supply connected to Arduino analog input (10bit, 1023 step) can yield displacement resolution as small as 5μm which can be good enough to this prototype shear box. DCDT is connected to a pin that is firmly held at the bottom of the sponge. 
 
-.. figure:: images/ex_image.png
+.. figure:: image/pic2.PNG
   :width: 300 px
   :alt: image of my awesome project
   :align: center
@@ -42,7 +43,7 @@ For deformation measurement, Sparkfun flex sensor was initially considered. The 
 
 Two power sources are used: (i) Arduino 5V for powering linear actuator and (ii) separated 30V DC power to supply current to DCDT. Arduino breadboard and push switches are used to manage current direction to linear actuator in which way forward and backward operation can be controlled. DCDT output signal is connected to Arduino analog input and sent to computer to analyze. 
 
-.. figure:: images/ex_image.png
+.. figure:: image/pic3.PNG
   :width: 300 px
   :alt: image of my awesome project
   :align: center
@@ -56,7 +57,7 @@ Fig. 4A and 4B show two different mode of sliding. A is stable displacement resp
 
 Plot C and D represent maximum slip velocity (C) and observed stability (D). Observation of slip velocity shows slip velocity increases with both patch size and normal force. Note that 0.005m/s is actuator velocity at no loading. So 0.005m/s represents stable sliding. Markers in Plot D denotes observed stability: square – stable, triangle – stable and unstable mixed and circle – unstable. Interesting observation is that the stable-unstable criteria seems to be solely dependent on patch size. Theoretical and experimental analysis says the nucleation length is also dependent on normal stress. More experiments are required to see if this observation is repeatable. 
 
-.. figure:: images/ex_image.png
+.. figure:: image/pic4.PNG
   :width: 300 px
   :alt: image of my awesome project
   :align: center

@@ -13,11 +13,11 @@ Earthquake is typically demonstrated by stick-slip motion in laboratory. Althoug
 To observe multi-dimensional slip behavior on distributed frictional property, a shear box with a soft shearing body is proposed for class project. First and most important requirement is to find such low stiffness but highly elastic material that represents an ¡°earth¡± in earthquake. Initial candidates were (i) sponge, (ii) styroform and (iii) rubber. Several sponges were tested first and an appropriate candidate that is generate localized slip and stiff enough was selected. 
 To fulfill to goal of the proposal, following items are required to be further satisfied
 
-?	Uniform normal & shear application
+*	Uniform normal & shear application
 
-?	Unstable patch within stable surface
+*	Unstable patch within stable surface
 
-?	Deformation measurement
+*	Deformation measurement
 
 Fig. 1A shows simplified mechanical framework of proposed shear box. It shows how boundary normal and shear stresses sould be applied on the shear body. Unstable patch will be placed on the bottom of the sponge and measurement will be made right on the top of the patch. Fig. 1B and 1C shows simulated normal and shear stress distributions after applying shown boundary forces. Resulted stress field are not perfectly uniform, but seems to be good enough at least near the unstable patch.
 
